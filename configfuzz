@@ -110,7 +110,11 @@ app
 apps
 api
 API
+apis
 api-dev
+apimobile
+apiweb
+apikey
 apk
 act
 action
@@ -126,6 +130,7 @@ application
 application/logs/
 app.log
 apps.log
+apps-vmap.xml
 b2b
 bak
 backup
@@ -215,6 +220,7 @@ default.env
 domain
 dev
 development
+devtools
 dvl
 devel
 db
@@ -235,6 +241,7 @@ db_backup.sql
 dbase.sql
 dbdump.sql
 dump.sql
+dynamic
 e2e-tests
 env
 env.conf
@@ -279,6 +286,7 @@ Gulpfile.js
 gulpfile.js
 graph
 graphs
+graphql
 glassfishfacet
 github/
 git
@@ -286,6 +294,7 @@ home
 host
 host.conf
 hosts
+hook
 health
 health.conf
 html
@@ -326,6 +335,7 @@ jolokia/actuator
 jvmcontroller.cfg
 JasperReportsWebApp/
 jboss
+json
 karma.conf.js
 keys.yml
 keystone
@@ -357,9 +367,12 @@ make
 Makefile
 machine.config
 Machine.config
+media
 metrics
 minio
 mkdocs.yml
+mobile
+mobileapi
 motd
 manager
 modules.conf
@@ -402,6 +415,7 @@ pma
 packages
 public/hot
 public/storage
+query
 readme
 README
 readme.html
@@ -425,10 +439,13 @@ Redirection.config
 Registry.dat
 RemoteSystemsTempFiles/
 rsync.log
+run
 s3.yml
 s3.yml.swp
 search
 secret
+secur
+secure
 service
 services
 server-info
@@ -514,6 +531,9 @@ vendors
 Vagrantfile
 wallet.dat
 web
+webapp
+webapps
+web-apps
 web.conf
 web-console/AOPBinding.jsp
 web-console/applet.jsp
@@ -531,12 +551,16 @@ Web.config
 webstore
 webui
 web.xml
+webhook
 weblogic.xml
 webutil.cfg
 webutil.jnlp
 webutilsaa.txt
 webpack.config.js
 wp-config.php
+webview
+web-view
+webapi
 xml
 xmlrpc
 xmlrpc.php
@@ -588,6 +612,9 @@ serverkey
 location
 ..%2f
 ..;/
+..;/..;/
+..;/..;/..;/
+..;/..;/..;/..;/
 ../
 ..%00/
 ..%0d/
