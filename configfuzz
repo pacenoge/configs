@@ -11,6 +11,7 @@
 .bashrc
 .bowerrc
 .bzr/repository/format
+.cache.json
 .csscomb.json
 .cvsignore
 .dockerignore
@@ -121,6 +122,7 @@ action
 alert_actions.conf
 app.conf
 audit.conf
+authentication
 authentication.conf
 authorize.conf
 ApplicationHost.config
@@ -144,6 +146,7 @@ backup.txt
 backup/
 beans
 bookmarks.conf
+bower_components
 browserslist
 bower.json
 build.xml
@@ -195,6 +198,7 @@ configuration/appSettings
 ConnectionStrings.config
 clients.sql
 customers.sql
+cron.html
 datamodels.conf
 data
 datafile
@@ -448,6 +452,7 @@ secur
 secure
 service
 services
+server
 server-info
 server-status
 serverinfo
@@ -472,6 +477,7 @@ storage
 storage/logs/laravel.log
 sysconfig
 ssh
+sso
 server.conf
 Spotfire.Dxp.Worker.Web.config
 sqlite
@@ -504,6 +510,7 @@ tmp.jsp
 tmp.php
 tmp.txt
 tools
+tools/cron
 tmp/
 tomcat-docs/appdev/sample/web/hello.jsp
 trace
@@ -514,6 +521,7 @@ tomcat
 tsconfig.json
 temp
 temp.sql
+transaction
 unit
 units
 unit-tests
@@ -596,7 +604,6 @@ latest/
 latest/attributes/
 latest/meta-data/instance-id
 latest/meta-data/image-id
-mobile
 vim_settings.xml
 .vim_settings.xml
 v1
