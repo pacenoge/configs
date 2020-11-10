@@ -133,6 +133,8 @@ application/logs/
 app.log
 apps.log
 apps-vmap.xml
+admin-console
+api/v4/users/admin
 b2b
 bak
 backup
@@ -144,6 +146,8 @@ backup.jsp
 backup.php
 backup.txt
 backup/
+back
+backend
 beans
 bookmarks.conf
 bower_components
@@ -213,6 +217,7 @@ debug.jsp
 debug.php
 debug.txt
 debug/
+debug/pprof/
 Dockerfile
 doc
 docs
@@ -278,6 +283,8 @@ forms/frmservlet
 ftp
 ftp.conf
 ftp.log
+frontend
+frontend/runtime/logs/
 get
 Gemfile
 Gemfile.lock
@@ -306,6 +313,7 @@ httpd.conf
 Homestead.json
 Homestead.yaml
 id_rsa
+i.php
 index.asp
 index.aspx
 index.jsp
@@ -331,7 +339,9 @@ interface
 interfaces
 juniper.conf
 Jenkinsfile
+jmx-console
 jmx-console/HtmlAdaptor
+JMXInvokerServlet
 jolokia
 jolokia/
 jolokia/list
@@ -382,6 +392,7 @@ manager
 modules.conf
 mysql
 mysql.sql
+manifest.json
 nginx_status
 nbproject
 nrotc
@@ -444,6 +455,7 @@ Registry.dat
 RemoteSystemsTempFiles/
 rsync.log
 run
+runtime/logs/
 s3.yml
 s3.yml.swp
 search
@@ -543,6 +555,7 @@ webapp
 webapps
 web-apps
 web.conf
+web-console
 web-console/AOPBinding.jsp
 web-console/applet.jsp
 web-console/Invoker
