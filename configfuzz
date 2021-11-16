@@ -26,6 +26,7 @@
 .gitconfig
 .gitignore
 .gitlab-ci.yml
+.gitlab-ci.yml.bak
 .gitkeep
 .github
 .hg
@@ -46,6 +47,7 @@
 .jshintrc
 .json
 .gruntjshintrc
+.key.yml
 .keys.yml
 .keys.yml.swp
 .LSOverride
@@ -440,13 +442,18 @@ path
 paths
 post
 project
+projects
 pma
 packages
 public/hot
 public/storage
+push
+pushlog
+pushlogs
 portaladmin
 portal
 public
+publics
 publik
 query
 readme
@@ -464,6 +471,8 @@ requests.log
 report
 reports
 robots.txt
+role
+roles
 route
 routes
 react
@@ -486,6 +495,8 @@ search
 secret
 secur
 secure
+send
+sends
 service
 services
 server
@@ -519,6 +530,8 @@ Spotfire.Dxp.Worker.Web.config
 sqlite
 setup.sql
 sqldump.sql
+sql
+sqlquery
 tag
 tags
 terraform.tfstate
